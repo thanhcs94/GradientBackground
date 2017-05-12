@@ -2,7 +2,7 @@
 
 Sample App:
 # TextPost for Instagram
-Download: https://play.google.com/store/apps/details?id=com.appa2z.textpost`
+Download: https://play.google.com/store/apps/details?id=com.appa2z.textpost
 
 #Demo
 
